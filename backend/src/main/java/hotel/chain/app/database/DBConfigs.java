@@ -8,7 +8,7 @@ public class DBConfigs {
     protected String dbPort = "3306";
     protected String dbLogin = "root";
     protected String dbPassword = "-----";
-//    protected String dbPassword = "gaffor402";
+//    protected String dbPassword = "------";
     protected String dbName = "hotel";
 
     public static boolean isEmpty(ResultSet rs) throws SQLException {
